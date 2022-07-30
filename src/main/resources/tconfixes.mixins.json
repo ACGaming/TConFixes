@@ -1,0 +1,7 @@
+{
+  "package": "mod.acgaming.tconfixes.mixin",
+  "refmap": "tconfixes.refmap.json",
+  "minVersion": "0.8",
+  "compatibilityLevel": "JAVA_8",
+  "mixins": ["EntityProjectileBaseMixin", "LongSwordMixin", "RapierMixin"]
+}

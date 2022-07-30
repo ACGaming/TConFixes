@@ -1,0 +1,17 @@
+[
+  {
+    "modid": "tconfixes",
+    "name": "TConFixes",
+    "description": "Minimally invasive fixes for Tinkers' Construct",
+    "version": "${version}",
+    "mcversion": "${mcversion}",
+    "url": "",
+    "authorList": [
+      "ACGaming"
+    ],
+    "dependencies": [
+      "mixinbooter",
+      "tconstruct"
+    ]
+  }
+]
