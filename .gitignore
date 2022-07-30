@@ -19,7 +19,5 @@ build
 
 # other
 eclipse
+logs
 run
-build.bat
-runClient.bat
-runServer.bat
