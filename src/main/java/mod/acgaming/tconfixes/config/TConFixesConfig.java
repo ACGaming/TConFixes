@@ -12,9 +12,9 @@ import mod.acgaming.tconfixes.TConFixes;
 public class TConFixesConfig
 {
     @Config.Name("Projectile Lifetime")
-    @Config.Comment("How many ticks projectiles are allowed on the ground until they despawn.")
+    @Config.Comment("After how many ticks projectiles despawn.")
     @Config.RangeInt(max = 1199)
-    public static int despawnProjectile = 40;
+    public static int despawnProjectile = 100;
 
     @Mod.EventBusSubscriber(modid = TConFixes.MODID)
     public static class EventHandler
